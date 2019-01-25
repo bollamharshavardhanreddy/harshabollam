@@ -14,4 +14,6 @@ I am currently a fresher to this Spring 2019 in Applied Computer Science at Nort
 
  ## Recommended Tools
 
-- [PowerShell](https://github.com/PowerShell/PowerShell " shell used to execute commands and the scripting language that goes along with the framework")
+- [PowerShell](https://github.com/PowerShell/PowerShell)  Shell used to execute commands and the scripting language that goes along with the framework.
+- [TortoiseGit] (https://en.wikipedia.org/wiki/TortoiseGit) TortoiseGit is a Git revision control client, implemented as a Windows shell extension.
+- [Notepad++] (https://en.wikipedia.org/wiki/Notepad%2B%2B) Notepad++ is a text editor and source code editor for use with Microsoft Windows.
