@@ -8,3 +8,6 @@ I am currently a fresher to this Spring 2019 in Applied Computer Science at Nort
 - [Webpage](https://bollamharshavardhanreddy.github.io/harshabollam/)
 
 - [Source](https://github.com/bollamharshavardhanreddy/harshabollam/blob/master/README.md)
+
+## About
+ This repository is good to practice with Github and basic repository programming skills.
