@@ -25,5 +25,8 @@ I am currently a fresher to this Spring 2019 in Applied Computer Science at Nort
  3. [w3schools](https://www.w3schools.com/js/default.asp) This is used to learn scripting languages.
 
  ## Contributors
+ 
  My name is HarshaVardhanReddy Bollam from MS-ACS at NWMSU.
+ 
  ![Hosted image](https://pbs.twimg.com/profile_images/602733971844116480/OCw8lROD_400x400.jpg)
+
