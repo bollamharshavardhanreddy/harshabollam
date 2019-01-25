@@ -11,3 +11,7 @@ I am currently a fresher to this Spring 2019 in Applied Computer Science at Nort
 
 ## About
  This repository is good to practice with Github and basic repository programming skills.
+
+ ## Recommended Tools
+
+-[PowerShell] (https://github.com/PowerShell/PowerShell " shell used to execute commands and the scripting language that goes along with the framework")
