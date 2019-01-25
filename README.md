@@ -26,4 +26,4 @@ I am currently a fresher to this Spring 2019 in Applied Computer Science at Nort
 
  ## Contributors
  My name is HarshaVardhanReddy Bollam from MS-ACS.
- 
+ ![Hosted image](https://9to5mac.com/wp-content/uploads/sites/6/2014/08/yosemite-2.jpg?quality=82&strip=all)
